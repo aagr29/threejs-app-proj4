@@ -1,0 +1,15 @@
+to start:
+git clone https://github.com/stephenchenn/threejs_express.git
+cd threejs_express
+npm install
+npm start
+Visit http://127.0.0.1:3000
+
+To update threejs:
+npm install three@latest
+
+resources:
+youtube
+https://www.youtube.com/watch?v=z9qtGHTqLqQ
+github
+https://github.com/Sean-Bradley/Threejs-Boilerplate
